@@ -22,15 +22,15 @@ Repository ini dibuat sebagai tempat penyimpanan dan dokumentasi seluruh kegiata
 
 3. Dokumentasi Kegiatan Workshop
 
-Ringkasan Materi
+  Ringkasan Materi
 
-A. Pengenalan Akademik Jurusan TIK
+- Pengenalan Akademik Jurusan TIK
 
 Jurusan Teknik Informatika dan Komputer (JTIK) Politeknik Negeri Jakarta memiliki visi menjadi jurusan bertaraf internasional untuk mendukung daya saing bangsa dalam bidang informatika dan komputer. Visi tersebut diwujudkan melalui tiga misi utama, yaitu menyelenggarakan pendidikan vokasi yang berkualitas dan berkarakter, mengembangkan penelitian serta inovasi teknologi, dan membangun tata kelola jurusan yang efisien, efektif, dan akuntabel berbasis teknologi informasi.
 
 Untuk mencapai visi tersebut, JTIK memiliki lima fokus pengembangan, yaitu penguatan internal jurusan, kerja sama dengan institusi dan industri, pengembangan sumber daya manusia (SDM), peningkatan sarana dan prasarana, serta pengembangan inkubator bisnis TIK. Pelaksanaannya didukung oleh bidang pendidikan vokasi, riset dan pengabdian masyarakat, pengembangan kompetensi SDM, infrastruktur, inovasi bisnis, serta kemitraan dengan berbagai pihak. Beberapa mitra yang tercantum antara lain CCIT, MSU, Dinkes Depok, Pemkot Depok, Agate, Cisco, Huawei, Oracle, QCU, dan PT Argios.
 
-B. Kurikulum Merdeka di Perguruan Tinggi (MBKM)
+- Kurikulum Merdeka di Perguruan Tinggi (MBKM)
 
 Merdeka Belajar – Kampus Merdeka (MBKM) merupakan kebijakan Kemendikbudristek sejak tahun 2020 yang memberikan kesempatan kepada mahasiswa untuk mengembangkan kemampuan sesuai minat dan bakat melalui kegiatan pembelajaran di dalam maupun di luar kampus. Tujuannya adalah menghasilkan lulusan yang siap kerja, memiliki kompetensi sesuai kebutuhan industri, serta mendapatkan pengalaman belajar yang lebih luas.
 
@@ -45,7 +45,7 @@ Manfaat mengikuti MBKM dan MSIB antara lain memperoleh pengalaman kerja nyata, m
 Untuk mengikuti program Kampus Merdeka, mahasiswa perlu memastikan data PDDikti sesuai, membuat akun pada portal Kampus Merdeka, memilih program, mengikuti proses pendaftaran dan seleksi, kemudian menjalankan program serta mengajukan konversi SKS. Mahasiswa juga perlu mempersiapkan CV dan portofolio, berkonsultasi dengan dosen pembimbing, melengkapi administrasi, serta mendokumentasikan kegiatan selama program berlangsung.
 
 
-Poin yang Dipelajari
+  Poin yang Dipelajari
 
 - Memahami visi, misi, dan arah pengembangan Jurusan TIK Politeknik Negeri Jakarta menuju jurusan bertaraf internasional.
 
@@ -67,7 +67,8 @@ Poin yang Dipelajari
 
 - Memahami pentingnya persiapan diri, konsultasi dengan dosen, penyusunan CV dan portofolio, serta kedisiplinan dalam mengikuti program MBKM.
 
-  C. Pendapat Pribadi tentang Day 1 Proyek Workshop
+
+Pendapat Pribadi tentang Day 1 Proyek Workshop
   
 Menurut saya, kegiatan Day 1 Proyek Workshop merupakan pengalaman yang bermanfaat dan memberikan wawasan baru, khususnya dalam mengenal proses pembelajaran serta pengembangan keterampilan di bidang teknologi. Melalui kegiatan ini, saya mendapatkan kesempatan untuk memahami materi yang disampaikan sekaligus menambah pengetahuan yang dapat diterapkan dalam proses perkuliahan maupun dunia kerja.
 
