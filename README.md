@@ -6,43 +6,65 @@ Identitas Peserta
 - Kegiatan: Day 1 Proyek Workshop HIMATIK PNJ
 
 1. Deskripsi Repository
+
 Repository ini dibuat sebagai tempat penyimpanan dan dokumentasi seluruh kegiatan Workshop Day 1 HIMATIK PNJ. Repository ini berisi rangkuman materi, catatan pembelajaran, poin-poin penting, serta dokumentasi kegiatan workshop.
 
-2. Tujuan Repository
+3. Tujuan Repository
 
   A. Menyimpan hasil pembelajaran selama workshop.
+  
   B. Mendokumentasikan materi dan kegiatan workshop.
+  
   C. Mengarsipkan pengetahuan baru yang diperoleh.
+  
   D. Memanfaatkan GitHub sebagai media penyimpanan dan pengelolaan dokumentasi.
 
 
 3. Dokumentasi Kegiatan Workshop
 
-  A. Rangkuman Materi
-  
-Materi pengenalan akademik Jurusan Teknik Informatika dan Komputer (JTIK) Politeknik Negeri Jakarta membahas pengenalan lingkungan akademik, tata tertib mahasiswa, penggunaan fasilitas laboratorium, struktur organisasi jurusan, serta arah pengembangan jurusan.
-Dalam penggunaan laboratorium, mahasiswa harus memahami prosedur peminjaman alat dan ruangan, mengikuti tata tertib, menjaga kebersihan, serta memperhatikan keselamatan kerja. Mahasiswa juga wajib menjaga sikap, kedisiplinan, dan menaati peraturan akademik yang berlaku.
-JTIK memiliki visi menjadi jurusan bertaraf internasional dalam bidang Informatika dan Komputer. Untuk mencapai visi tersebut, jurusan memiliki misi dalam bidang pendidikan vokasi, riset dan inovasi, serta tata kelola digital. Pengembangannya berfokus pada penguatan internal jurusan, kerja sama dengan industri, peningkatan kualitas SDM, pengembangan fasilitas, dan inkubator bisnis teknologi.
-Materi selanjutnya membahas Kurikulum Merdeka Belajar Kampus Merdeka (MBKM), yaitu kebijakan yang memberikan kesempatan kepada mahasiswa untuk mengembangkan kemampuan melalui kegiatan pembelajaran di luar program studi. Kegiatannya meliputi pertukaran pelajar, magang, asistensi mengajar, penelitian, proyek kemanusiaan, wirausaha, proyek independen, dan KKN. Salah satu programnya adalah MSIB yang memberikan pengalaman magang atau studi independen bersama mitra industri. Metode pembelajaran yang digunakan meliputi Project-Based Learning (PjBL), Problem-Based Learning (PBL), dan Case-Based Learning (CBL).
-Pada program studi D4 Teknik Multimedia dan Jaringan (TMJ), mahasiswa mempelajari bidang jaringan komputer, pemrograman, multimedia, infrastruktur, keamanan komputer, dan teknologi digital. Kurikulumnya menggunakan pendekatan Outcome-Based Education (OBE) dengan masa studi delapan semester, terdiri dari 144 SKS dan 47 mata kuliah. Pembelajaran dimulai dari penguasaan dasar teknologi, pengembangan kemampuan, spesialisasi, magang industri, hingga penyelesaian tugas akhir.
-TMJ memiliki lima profil lulusan utama, yaitu Network, IoT, Infrastruktur, Web dan Mobile, serta Technopreneur. Setiap bidang memiliki peluang karier yang berbeda, seperti Network Administrator, IoT Developer, IT Support, Application Developer, dan pengembang produk digital.
-Perkembangan teknologi memberikan peluang karier yang semakin luas, tetapi juga menuntut mahasiswa untuk terus meningkatkan kompetensi. Bidang seperti cloud computing, kecerdasan buatan, keamanan siber, Internet of Things, dan pengembangan aplikasi diperkirakan semakin berkembang. Oleh karena itu, mahasiswa perlu membangun kemampuan dasar, membuat proyek nyata, mengembangkan portofolio, dan terus mengikuti perkembangan teknologi.
+* Ringkasan Materi
 
+A. Pengenalan Akademik Jurusan TIK
 
-  B. Poin-Poin Penting
-  
-1. Kedisiplinan Akademik: Mahasiswa harus menaati peraturan kampus, menjaga sikap, berpakaian rapi, datang tepat waktu, dan menghindari segala bentuk pelanggaran akademik.
-2. Penggunaan Laboratorium: Memahami prosedur peminjaman alat dan ruangan, menjaga fasilitas, serta menerapkan keselamatan dan kesehatan kerja (K3).
-3. Struktur Organisasi JTIK: Memahami susunan organisasi jurusan, program studi, kepala laboratorium, admin, dosen, dan kelompok bidang keahlian.
-4. Visi dan Misi JTIK: Mengetahui tujuan jurusan untuk menjadi jurusan bertaraf internasional melalui pendidikan vokasi, riset, inovasi, dan tata kelola digital.
-5. Pengembangan Jurusan: Memahami pentingnya kerja sama industri, peningkatan kualitas SDM, pengembangan infrastruktur, dan inovasi bisnis teknologi.
-6. Program MBKM dan MSIB: Mengetahui kesempatan belajar di luar program studi melalui magang, pertukaran pelajar, penelitian, wirausaha, dan kegiatan lainnya.
-7. Metode Pembelajaran: Memahami PjBL yang berfokus pada proyek, PBL yang berfokus pada pemecahan masalah, dan CBL yang menggunakan studi kasus.
-8. Kurikulum TMJ: Memahami sistem pembelajaran delapan semester dengan total 144 SKS yang terdiri dari mata kuliah dasar, pengembangan, spesialisasi, magang, dan skripsi.
-9. Bidang Keahlian TMJ: Mengenal lima bidang utama, yaitu jaringan komputer, Internet of Things, infrastruktur, Web dan Mobile, serta Technopreneur.
-10. Peluang Karier: Mengetahui berbagai prospek pekerjaan di bidang teknologi informasi, seperti Network Administrator, IoT Developer, Cloud Support, Software Developer, dan Technopreneur.
-11. Perkembangan Teknologi: Memahami pentingnya mengikuti perkembangan cloud computing, AI, IoT, keamanan siber, dan otomatisasi jaringan.
-12. Persiapan Masa Depan: Mahasiswa perlu menentukan bidang yang diminati, meningkatkan keterampilan, aktif membuat proyek, membangun portofolio, dan terus belajar agar siap menghadapi dunia kerja.
+Jurusan Teknik Informatika dan Komputer (JTIK) Politeknik Negeri Jakarta memiliki visi menjadi jurusan bertaraf internasional untuk mendukung daya saing bangsa dalam bidang informatika dan komputer. Visi tersebut diwujudkan melalui tiga misi utama, yaitu menyelenggarakan pendidikan vokasi yang berkualitas dan berkarakter, mengembangkan penelitian serta inovasi teknologi, dan membangun tata kelola jurusan yang efisien, efektif, dan akuntabel berbasis teknologi informasi.
+
+Untuk mencapai visi tersebut, JTIK memiliki lima fokus pengembangan, yaitu penguatan internal jurusan, kerja sama dengan institusi dan industri, pengembangan sumber daya manusia (SDM), peningkatan sarana dan prasarana, serta pengembangan inkubator bisnis TIK. Pelaksanaannya didukung oleh bidang pendidikan vokasi, riset dan pengabdian masyarakat, pengembangan kompetensi SDM, infrastruktur, inovasi bisnis, serta kemitraan dengan berbagai pihak. Beberapa mitra yang tercantum antara lain CCIT, MSU, Dinkes Depok, Pemkot Depok, Agate, Cisco, Huawei, Oracle, QCU, dan PT Argios.
+
+B. Kurikulum Merdeka di Perguruan Tinggi (MBKM)
+
+Merdeka Belajar – Kampus Merdeka (MBKM) merupakan kebijakan Kemendikbudristek sejak tahun 2020 yang memberikan kesempatan kepada mahasiswa untuk mengembangkan kemampuan sesuai minat dan bakat melalui kegiatan pembelajaran di dalam maupun di luar kampus. Tujuannya adalah menghasilkan lulusan yang siap kerja, memiliki kompetensi sesuai kebutuhan industri, serta mendapatkan pengalaman belajar yang lebih luas.
+
+MBKM menyediakan delapan bentuk kegiatan pembelajaran, yaitu pertukaran pelajar, magang atau praktik kerja, asistensi mengajar, penelitian atau riset, proyek kemanusiaan, kegiatan wirausaha, proyek independen, serta membangun desa atau KKN. Mahasiswa memiliki kesempatan belajar hingga dua semester di luar program studi asal, dengan kegiatan yang dapat dikonversikan menjadi SKS sesuai ketentuan program studi.
+
+Salah satu program unggulan MBKM adalah Magang dan Studi Independen Bersertifikat (MSIB). Magang Bersertifikat memberikan pengalaman bekerja secara langsung di perusahaan atau organisasi mitra dengan bimbingan mentor industri. Sementara itu, Studi Independen Bersertifikat memberikan pembelajaran kompetensi tertentu melalui short course, bootcamp, atau kelas daring yang dilanjutkan dengan proyek maupun studi kasus. Kedua program berlangsung selama satu semester, dapat dikonversikan menjadi 20 SKS, memberikan sertifikat, serta membuka peluang rekomendasi kepada mitra.
+
+Dalam pelaksanaannya, MBKM didukung oleh beberapa metode pembelajaran aktif, yaitu Project-Based Learning (PjBL), Problem-Based Learning (PBL), dan Case-Based Learning (CBL). PjBL berfokus pada pembuatan proyek atau produk nyata, PBL berfokus pada pemecahan masalah nyata, sedangkan CBL berfokus pada analisis kasus yang telah tersedia untuk menghasilkan solusi.
+
+Manfaat mengikuti MBKM dan MSIB antara lain memperoleh pengalaman kerja nyata, meningkatkan keterampilan sesuai kebutuhan industri, memperluas jaringan profesional, serta mendapatkan pengakuan akademik melalui konversi SKS dan sertifikat.
+
+Untuk mengikuti program Kampus Merdeka, mahasiswa perlu memastikan data PDDikti sesuai, membuat akun pada portal Kampus Merdeka, memilih program, mengikuti proses pendaftaran dan seleksi, kemudian menjalankan program serta mengajukan konversi SKS. Mahasiswa juga perlu mempersiapkan CV dan portofolio, berkonsultasi dengan dosen pembimbing, melengkapi administrasi, serta mendokumentasikan kegiatan selama program berlangsung.
+
+* Poin yang Dipelajari
+
+- Memahami visi, misi, dan arah pengembangan Jurusan TIK Politeknik Negeri Jakarta menuju jurusan bertaraf internasional.
+
+- Mengetahui lima fokus pengembangan JTIK, yaitu penguatan internal, kerja sama industri, pengembangan SDM, peningkatan infrastruktur, dan inkubator bisnis.
+
+- Memahami pentingnya pendidikan vokasi, penelitian, inovasi, serta tata kelola digital dalam meningkatkan kualitas jurusan.
+
+- Memahami konsep dan tujuan program Merdeka Belajar – Kampus Merdeka (MBKM) dalam meningkatkan kompetensi dan kesiapan kerja mahasiswa.
+
+- Mengetahui delapan bentuk kegiatan pembelajaran MBKM serta kesempatan belajar di luar program studi.
+
+- Memahami perbedaan Magang Bersertifikat dan Studi Independen Bersertifikat (MSIB).
+
+- Mengetahui metode pembelajaran PjBL, PBL, dan CBL serta penerapannya dalam kegiatan perkuliahan.
+
+- Memahami manfaat MBKM dalam memberikan pengalaman industri, meningkatkan keterampilan, memperluas relasi, dan memperoleh pengakuan akademik.
+
+- Mengetahui tahapan pendaftaran program Kampus Merdeka, mulai dari pengecekan data PDDikti hingga pengajuan konversi SKS.
+
+- Memahami pentingnya persiapan diri, konsultasi dengan dosen, penyusunan CV dan portofolio, serta kedisiplinan dalam mengikuti program MBKM.
 
   C. Pendapat Pribadi tentang Day 1 Proyek Workshop
   
