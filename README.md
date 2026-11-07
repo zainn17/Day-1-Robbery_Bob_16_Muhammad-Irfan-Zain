@@ -10,20 +10,20 @@ Repository ini dibuat sebagai tempat penyimpanan dan dokumentasi seluruh kegiata
 
 2. Tujuan Repository
 
-A. Menyimpan hasil pembelajaran selama workshop.
-B. Mendokumentasikan materi dan kegiatan workshop.
-C. Mengarsipkan pengetahuan baru yang diperoleh.
-D. Memanfaatkan GitHub sebagai media penyimpanan dan pengelolaan dokumentasi.
+  A. Menyimpan hasil pembelajaran selama workshop.
+  B. Mendokumentasikan materi dan kegiatan workshop.
+  C. Mengarsipkan pengetahuan baru yang diperoleh.
+  D. Memanfaatkan GitHub sebagai media penyimpanan dan pengelolaan dokumentasi.
 
 3. Dokumentasi Kegiatan Workshop
 
-A. Rangkuman Materi
+  A. Rangkuman Materi
 [Tuliskan rangkuman materi workshop di sini.]
 
-B. Poin-Poin Penting
+  B. Poin-Poin Penting
 [Masukkan pengetahuan baru dan hal penting yang dipelajari.]
 
-C. Pendapat Pribadi tentang Day 1 Proyek Workshop
+  C. Pendapat Pribadi tentang Day 1 Proyek Workshop
 [Berikan pendapat, pengalaman, manfaat, dan kesan lu selama mengikuti workshop.]
 
 4. Dokumentasi Foto Kegiatan
