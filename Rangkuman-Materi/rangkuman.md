@@ -1,60 +1,43 @@
-1. RINGKASAN MATERI
+1. Ringkasan Materi
 
-A. Pengenalan Akademik dan Laboratorium TIK
+A. Pengenalan Akademik Jurusan TIK
 
-Materi membahas lingkungan akademik JTIK Politeknik Negeri Jakarta, tata tertib mahasiswa, serta prosedur peminjaman alat dan ruangan laboratorium. Mahasiswa wajib menjaga kedisiplinan, kebersihan, kerapian, keselamatan kerja (K3), dan mematuhi peraturan kampus. Pelanggaran dapat dikenakan sanksi mulai dari peringatan hingga pemberhentian sebagai mahasiswa.
+Jurusan Teknik Informatika dan Komputer (JTIK) Politeknik Negeri Jakarta memiliki visi menjadi jurusan bertaraf internasional untuk mendukung daya saing bangsa dalam bidang informatika dan komputer. Visi tersebut diwujudkan melalui tiga misi utama, yaitu menyelenggarakan pendidikan vokasi yang berkualitas dan berkarakter, mengembangkan penelitian serta inovasi teknologi, dan membangun tata kelola jurusan yang efisien, efektif, dan akuntabel berbasis teknologi informasi.
 
-B. Struktur Organisasi dan Rencana Strategis JTIK
+Untuk mencapai visi tersebut, JTIK memiliki lima fokus pengembangan, yaitu penguatan internal jurusan, kerja sama dengan institusi dan industri, pengembangan sumber daya manusia (SDM), peningkatan sarana dan prasarana, serta pengembangan inkubator bisnis TIK. Pelaksanaannya didukung oleh bidang pendidikan vokasi, riset dan pengabdian masyarakat, pengembangan kompetensi SDM, infrastruktur, inovasi bisnis, serta kemitraan dengan berbagai pihak. Beberapa mitra yang tercantum antara lain CCIT, MSU, Dinkes Depok, Pemkot Depok, Agate, Cisco, Huawei, Oracle, QCU, dan PT Argios.
 
-Struktur organisasi JTIK terdiri dari Ketua Jurusan, Sekretaris Jurusan, Ketua Program Studi, Kepala Laboratorium, admin, dosen, dan Kelompok Bidang Keahlian.
-JTIK memiliki visi menjadi jurusan bertaraf internasional dalam bidang Informatika dan Komputer. Misinya meliputi pendidikan vokasi, riset dan inovasi, serta tata kelola digital. Pengembangan jurusan berfokus pada penguatan internal, kerja sama industri, peningkatan SDM, pengembangan fasilitas, dan inkubator bisnis TIK.
+B. Kurikulum Merdeka di Perguruan Tinggi (MBKM)
 
-C. MBKM dan MSIB
+Merdeka Belajar – Kampus Merdeka (MBKM) merupakan kebijakan Kemendikbudristek sejak tahun 2020 yang memberikan kesempatan kepada mahasiswa untuk mengembangkan kemampuan sesuai minat dan bakat melalui kegiatan pembelajaran di dalam maupun di luar kampus. Tujuannya adalah menghasilkan lulusan yang siap kerja, memiliki kompetensi sesuai kebutuhan industri, serta mendapatkan pengalaman belajar yang lebih luas.
 
-Merdeka Belajar Kampus Merdeka (MBKM) memberikan kesempatan kepada mahasiswa untuk mengembangkan kemampuan melalui delapan kegiatan, yaitu pertukaran pelajar, magang, asistensi mengajar, penelitian, proyek kemanusiaan, wirausaha, proyek independen, dan KKN.
-Salah satu programnya adalah MSIB yang terdiri dari Magang Bersertifikat dan Studi Independen Bersertifikat. Program ini memberikan pengalaman industri, sertifikat, serta konversi hingga 20 SKS. Metode pembelajaran yang digunakan meliputi Project-Based Learning (PjBL), Problem-Based Learning (PBL), dan Case-Based Learning (CBL).
+MBKM menyediakan delapan bentuk kegiatan pembelajaran, yaitu pertukaran pelajar, magang atau praktik kerja, asistensi mengajar, penelitian atau riset, proyek kemanusiaan, kegiatan wirausaha, proyek independen, serta membangun desa atau KKN. Mahasiswa memiliki kesempatan belajar hingga dua semester di luar program studi asal, dengan kegiatan yang dapat dikonversikan menjadi SKS sesuai ketentuan program studi.
 
-D. Pengenalan Program Studi D4 TMJ
+Salah satu program unggulan MBKM adalah Magang dan Studi Independen Bersertifikat (MSIB). Magang Bersertifikat memberikan pengalaman bekerja secara langsung di perusahaan atau organisasi mitra dengan bimbingan mentor industri. Sementara itu, Studi Independen Bersertifikat memberikan pembelajaran kompetensi tertentu melalui short course, bootcamp, atau kelas daring yang dilanjutkan dengan proyek maupun studi kasus. Kedua program berlangsung selama satu semester, dapat dikonversikan menjadi 20 SKS, memberikan sertifikat, serta membuka peluang rekomendasi kepada mitra.
 
-Teknik Multimedia dan Jaringan (TMJ) merupakan program studi yang mempelajari jaringan komputer, pemrograman, multimedia, infrastruktur, keamanan, dan teknologi digital.
-Kurikulumnya menggunakan pendekatan Outcome-Based Education (OBE), dengan masa studi delapan semester, total 144 SKS, dan 47 mata kuliah. Pembelajaran dibagi menjadi tahap fondasi, pengembangan, spesialisasi, serta magang dan tugas akhir.
+Dalam pelaksanaannya, MBKM didukung oleh beberapa metode pembelajaran aktif, yaitu Project-Based Learning (PjBL), Problem-Based Learning (PBL), dan Case-Based Learning (CBL). PjBL berfokus pada pembuatan proyek atau produk nyata, PBL berfokus pada pemecahan masalah nyata, sedangkan CBL berfokus pada analisis kasus yang telah tersedia untuk menghasilkan solusi.
 
-E. Profil Lulusan dan Peluang Karier TMJ
+Manfaat mengikuti MBKM dan MSIB antara lain memperoleh pengalaman kerja nyata, meningkatkan keterampilan sesuai kebutuhan industri, memperluas jaringan profesional, serta mendapatkan pengakuan akademik melalui konversi SKS dan sertifikat.
 
-TMJ memiliki lima profil lulusan utama, yaitu Network, IoT, Infrastruktur, Web dan Mobile, serta Technopreneur. Masing-masing bidang memiliki peluang pekerjaan seperti Network Administrator, IoT Developer, Cloud Support, Application Developer, dan pengembang produk digital.
-Perkembangan teknologi seperti Artificial Intelligence, Cloud Computing, IoT, dan keamanan siber membuka peluang karier yang semakin luas. Mahasiswa perlu terus meningkatkan keterampilan karena kebutuhan industri selalu berubah.
+Untuk mengikuti program Kampus Merdeka, mahasiswa perlu memastikan data PDDikti sesuai, membuat akun pada portal Kampus Merdeka, memilih program, mengikuti proses pendaftaran dan seleksi, kemudian menjalankan program serta mengajukan konversi SKS. Mahasiswa juga perlu mempersiapkan CV dan portofolio, berkonsultasi dengan dosen pembimbing, melengkapi administrasi, serta mendokumentasikan kegiatan selama program berlangsung.
 
-F. Kurikulum dan Mata Kuliah TMJ
+2. Poin yang Dipelajari
 
-Mata kuliah TMJ disusun secara bertahap. Semester 1–2 mempelajari dasar pemrograman, jaringan komputer, dan sistem operasi. Semester 3–4 mempelajari basis data, jaringan server, pemrograman web, dan keamanan cloud. Semester 5–6 berfokus pada AI, IoT, virtualisasi, dan manajemen proyek. Semester 7 melaksanakan magang industri, sedangkan semester 8 menyelesaikan skripsi.
+A. Memahami visi, misi, dan arah pengembangan Jurusan TIK Politeknik Negeri Jakarta menuju jurusan bertaraf internasional.
 
-2. POIN PENTING YANG DIPELAJARI
+B. Mengetahui lima fokus pengembangan JTIK, yaitu penguatan internal, kerja sama industri, pengembangan SDM, peningkatan infrastruktur, dan inkubator bisnis.
 
-A.	Kedisiplinan: Mematuhi tata tertib kampus, menjaga sikap, berpakaian rapi, dan menghindari pelanggaran akademik.
+C. Memahami pentingnya pendidikan vokasi, penelitian, inovasi, serta tata kelola digital dalam meningkatkan kualitas jurusan.
 
-B.	Laboratorium: Memahami prosedur peminjaman alat dan ruangan serta menerapkan keselamatan kerja.
+D. Memahami konsep dan tujuan program Merdeka Belajar – Kampus Merdeka (MBKM) dalam meningkatkan kompetensi dan kesiapan kerja mahasiswa.
 
-C.	Struktur JTIK: Memahami susunan organisasi dan pembagian tugas dalam jurusan.
+E. Mengetahui delapan bentuk kegiatan pembelajaran MBKM serta kesempatan belajar di luar program studi.
 
-D.	Visi JTIK: Mengetahui tujuan jurusan menjadi institusi bertaraf internasional melalui pendidikan, riset, dan inovasi.
+F. Memahami perbedaan Magang Bersertifikat dan Studi Independen Bersertifikat (MSIB).
 
-E.	Pengembangan Jurusan: Memahami pentingnya kerja sama industri, peningkatan SDM, dan fasilitas pembelajaran.
+G. Mengetahui metode pembelajaran PjBL, PBL, dan CBL serta penerapannya dalam kegiatan perkuliahan.
 
-F.	MBKM dan MSIB: Mengetahui kesempatan belajar di luar kampus melalui magang, penelitian, pertukaran pelajar, dan kegiatan lainnya.
+H. Memahami manfaat MBKM dalam memberikan pengalaman industri, meningkatkan keterampilan, memperluas relasi, dan memperoleh pengakuan akademik.
 
-G.	Metode Pembelajaran: Memahami PjBL, PBL, dan CBL sebagai metode pembelajaran berbasis proyek, masalah, dan kasus.
+I. Mengetahui tahapan pendaftaran program Kampus Merdeka, mulai dari pengecekan data PDDikti hingga pengajuan konversi SKS.
 
-H.	Kurikulum TMJ: Memahami sistem pembelajaran OBE selama delapan semester dengan total 144 SKS.
-
-I.	Bidang Keahlian: Mengenal lima bidang TMJ, yaitu Network, IoT, Infrastruktur, Web dan Mobile, serta Technopreneur.
-
-J.	Peluang Karier: Mengetahui prospek pekerjaan di bidang jaringan, pemrograman, infrastruktur, keamanan, dan teknologi digital.
-
-K.	Perkembangan Teknologi: Memahami perkembangan AI, IoT, Cloud Computing, dan keamanan siber.
-
-L.	Persiapan Masa Depan: Pentingnya mengembangkan keterampilan, membuat proyek, membangun portofolio, dan terus belajar agar siap menghadapi dunia kerja.
-
-
-Kesimpulan:
-Materi pengenalan akademik JTIK memberikan pemahaman mengenai lingkungan kampus, tata tertib, struktur jurusan, sistem pembelajaran, serta bidang keahlian TMJ. Mahasiswa diharapkan mampu mengembangkan pengetahuan, keterampilan praktik, kedisiplinan, dan pengalaman melalui proyek maupun kegiatan industri agar siap menghadapi dunia kerja dan perkembangan teknologi.
-
+J. Memahami pentingnya persiapan diri, konsultasi dengan dosen, penyusunan CV dan portofolio, serta kedisiplinan dalam mengikuti program MBKM.
