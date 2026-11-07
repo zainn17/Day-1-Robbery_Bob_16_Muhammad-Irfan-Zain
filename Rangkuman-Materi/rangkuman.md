@@ -28,7 +28,7 @@ F. Kurikulum dan Mata Kuliah TMJ
 
 Mata kuliah TMJ disusun secara bertahap. Semester 1–2 mempelajari dasar pemrograman, jaringan komputer, dan sistem operasi. Semester 3–4 mempelajari basis data, jaringan server, pemrograman web, dan keamanan cloud. Semester 5–6 berfokus pada AI, IoT, virtualisasi, dan manajemen proyek. Semester 7 melaksanakan magang industri, sedangkan semester 8 menyelesaikan skripsi.
 
-3. POIN PENTING YANG DIPELAJARI
+2. POIN PENTING YANG DIPELAJARI
 
 1.	Kedisiplinan: Mematuhi tata tertib kampus, menjaga sikap, berpakaian rapi, dan menghindari pelanggaran akademik.
 2.	Laboratorium: Memahami prosedur peminjaman alat dan ruangan serta menerapkan keselamatan kerja.
