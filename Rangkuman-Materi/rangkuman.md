@@ -31,16 +31,27 @@ Mata kuliah TMJ disusun secara bertahap. Semester 1–2 mempelajari dasar pemrog
 2. POIN PENTING YANG DIPELAJARI
 
 A.	Kedisiplinan: Mematuhi tata tertib kampus, menjaga sikap, berpakaian rapi, dan menghindari pelanggaran akademik.
+
 B.	Laboratorium: Memahami prosedur peminjaman alat dan ruangan serta menerapkan keselamatan kerja.
+
 C.	Struktur JTIK: Memahami susunan organisasi dan pembagian tugas dalam jurusan.
+
 D.	Visi JTIK: Mengetahui tujuan jurusan menjadi institusi bertaraf internasional melalui pendidikan, riset, dan inovasi.
+
 E.	Pengembangan Jurusan: Memahami pentingnya kerja sama industri, peningkatan SDM, dan fasilitas pembelajaran.
+
 F.	MBKM dan MSIB: Mengetahui kesempatan belajar di luar kampus melalui magang, penelitian, pertukaran pelajar, dan kegiatan lainnya.
+
 G.	Metode Pembelajaran: Memahami PjBL, PBL, dan CBL sebagai metode pembelajaran berbasis proyek, masalah, dan kasus.
+
 H.	Kurikulum TMJ: Memahami sistem pembelajaran OBE selama delapan semester dengan total 144 SKS.
+
 I.	Bidang Keahlian: Mengenal lima bidang TMJ, yaitu Network, IoT, Infrastruktur, Web dan Mobile, serta Technopreneur.
+
 J.	Peluang Karier: Mengetahui prospek pekerjaan di bidang jaringan, pemrograman, infrastruktur, keamanan, dan teknologi digital.
+
 K.	Perkembangan Teknologi: Memahami perkembangan AI, IoT, Cloud Computing, dan keamanan siber.
+
 L.	Persiapan Masa Depan: Pentingnya mengembangkan keterampilan, membuat proyek, membangun portofolio, dan terus belajar agar siap menghadapi dunia kerja.
 
 
