@@ -20,7 +20,7 @@ Repository ini dibuat sebagai tempat penyimpanan dan dokumentasi seluruh kegiata
   D. Memanfaatkan GitHub sebagai media penyimpanan dan pengelolaan dokumentasi.
 
 
-3. Dokumentasi Kegiatan Workshop
+# 3. Dokumentasi Kegiatan Workshop
 
   Ringkasan Materi
 
@@ -68,7 +68,7 @@ Untuk mengikuti program Kampus Merdeka, mahasiswa perlu memastikan data PDDikti 
 - Memahami pentingnya persiapan diri, konsultasi dengan dosen, penyusunan CV dan portofolio, serta kedisiplinan dalam mengikuti program MBKM.
 
 
-Pendapat Pribadi tentang Day 1 Proyek Workshop
+# Pendapat Pribadi tentang Day 1 Proyek Workshop
   
 Menurut saya, kegiatan Day 1 Proyek Workshop merupakan pengalaman yang bermanfaat dan memberikan wawasan baru, khususnya dalam mengenal proses pembelajaran serta pengembangan keterampilan di bidang teknologi. Melalui kegiatan ini, saya mendapatkan kesempatan untuk memahami materi yang disampaikan sekaligus menambah pengetahuan yang dapat diterapkan dalam proses perkuliahan maupun dunia kerja.
 
