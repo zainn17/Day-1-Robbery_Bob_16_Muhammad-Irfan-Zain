@@ -77,6 +77,6 @@ Selain mendapatkan materi baru, kegiatan ini juga memberikan pengalaman mengenai
 Secara keseluruhan, saya merasa kegiatan hari pertama ini memberikan kesan positif dan menjadi langkah awal yang baik untuk mengikuti rangkaian Proyek Workshop selanjutnya. Saya berharap dapat memperoleh lebih banyak pengalaman, pengetahuan, serta keterampilan baru pada kegiatan berikutnya.
 
 
-4. Penutup
+# 4. Penutup
 
 Repository ini diharapkan dapat menjadi arsip pembelajaran dan dokumentasi kegiatan Workshop Day 1 serta menjadi referensi untuk pengembangan pengetahuan selanjutnya.
