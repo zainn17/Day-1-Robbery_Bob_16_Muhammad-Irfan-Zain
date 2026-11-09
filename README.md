@@ -1,15 +1,15 @@
-DOKUMENTASI WORKSHOP DAY 1
+# DOKUMENTASI WORKSHOP DAY 1
 
 Identitas Peserta
 - Nama: Muhammad Irfan Zain
 - Kelompok: Robbery Bob 16
 - Kegiatan: Day 1 Proyek Workshop HIMATIK PNJ
 
-1. Deskripsi Repository
+# 1. Deskripsi Repository
 
 Repository ini dibuat sebagai tempat penyimpanan dan dokumentasi seluruh kegiatan Workshop Day 1 HIMATIK PNJ. Repository ini berisi rangkuman materi, catatan pembelajaran, poin-poin penting, serta dokumentasi kegiatan workshop.
 
-3. Tujuan Repository
+# 2. Tujuan Repository
 
   A. Menyimpan hasil pembelajaran selama workshop.
   
