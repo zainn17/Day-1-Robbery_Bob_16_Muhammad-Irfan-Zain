@@ -22,7 +22,7 @@ Repository ini dibuat sebagai tempat penyimpanan dan dokumentasi seluruh kegiata
 
 # 3. Dokumentasi Kegiatan Workshop
 
-  Ringkasan Materi
+## Ringkasan Materi
 
 - Pengenalan Akademik Jurusan TIK
 
@@ -45,7 +45,7 @@ Manfaat mengikuti MBKM dan MSIB antara lain memperoleh pengalaman kerja nyata, m
 Untuk mengikuti program Kampus Merdeka, mahasiswa perlu memastikan data PDDikti sesuai, membuat akun pada portal Kampus Merdeka, memilih program, mengikuti proses pendaftaran dan seleksi, kemudian menjalankan program serta mengajukan konversi SKS. Mahasiswa juga perlu mempersiapkan CV dan portofolio, berkonsultasi dengan dosen pembimbing, melengkapi administrasi, serta mendokumentasikan kegiatan selama program berlangsung.
 
 
-  Poin yang Dipelajari
+## Poin yang Dipelajari
 
 - Memahami visi, misi, dan arah pengembangan Jurusan TIK Politeknik Negeri Jakarta menuju jurusan bertaraf internasional.
 
